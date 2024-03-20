@@ -14,7 +14,7 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://your-repository-url.git
+   git clone https://your-repository-url.git](https://github.com/vaidikrvyas/Twitter-Sentiment-Analysis-Bot
    ```
 2. Install the required dependencies:
    ```
