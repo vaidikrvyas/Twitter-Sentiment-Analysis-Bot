@@ -31,7 +31,4 @@ Contributions to this project are welcome. Please fork the repository and submit
 Specify the license under which your project is released.
 
 ## Contact
-For any queries or feedback, please contact me at your-email@example.com.
-```
-
-Make sure to replace placeholders like `https://your-repository-url.git` and `your-email@example.com` with your actual repository URL and contact email. Also, add specific details about your project where necessary, such as the machine learning models used, specific features of the project, and any additional instructions for users or contributors.
+For any queries or feedback, please contact me at vv466@njit.edu
