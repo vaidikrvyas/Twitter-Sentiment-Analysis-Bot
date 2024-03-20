@@ -1,4 +1,3 @@
-```markdown
 # Twitter Sentiment Analysis
 
 ## Project Overview
